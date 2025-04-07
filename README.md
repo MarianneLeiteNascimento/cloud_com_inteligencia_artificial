@@ -1,5 +1,5 @@
 # resumo_lab_maquinas_virtuais
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do laboratório do curso "XP Inc. - Cloud com Inteligência Artificial" da DIO.
+Este repositório contém resumos das lições aprendidas durante o curso "XP Inc. - Cloud com Inteligência Artificial" da DIO.
 
 # Resumo do conteúdo aprendido:
 
