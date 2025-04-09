@@ -11,7 +11,7 @@ Esse modelo define o que é responsabilidade do provedor de nuvem e o que é res
 
 ## *Os três tipos de serviço:*
 ### *Infraestrutura como serviço (IaaS)*
-Nesse modelo, o provedor de serviços é proprietário e opera a infraestrutura, mas os clientes precisam adquirir e gerenciar softwares como sistemas operacionais, middleware, dados e aplicativos. Os recursos de infraestrutura — como computação, armazenamento, rede e virtualização — são fornecidos sob demanda.
+Nesse modelo, o provedor de serviços é proprietário e opera a infraestrutura, mas os clientes precisam adquirir e gerenciar softwares como sistemas operacionais, middleware, dados e aplicativos. Os recursos de infraestrutura como computação, armazenamento, rede e virtualização são fornecidos sob demanda.
 
 ### *Plataforma como serviço (PaaS)*
 Nesse modelo, os provedores geralmente oferecem middleware, ferramentas de desenvolvimento e bancos de dados na nuvem. O PaaS também fornece e gerencia recursos de hardware e software para o desenvolvimento, teste, entrega e gerenciamento de aplicativos na nuvem.
