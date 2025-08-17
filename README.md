@@ -6,4 +6,4 @@ Este repositório contém resumos das lições aprendidas durante o curso "XP In
 
 ## Módulo V: *Análise de Sentimentos com Language Studio no Azure AI*
 
-- Resumo 2:
+- Resumo 2:  https://github.com/MarianneLeiteNascimento/cloud_com_inteligencia_artificial/blob/main/resumos/modulo_cinco/language_studio_analise_de_sentimentos.md
