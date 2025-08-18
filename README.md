@@ -22,3 +22,5 @@ Este repositório contém resumos das lições aprendidas durante o curso "XP In
 - Resumo 1:  https://github.com/MarianneLeiteNascimento/cloud_com_inteligencia_artificial/blob/main/resumos/modulo_cinco/language_studio_analise_de_sentimentos.md
 
 - Resumo 2: https://github.com/MarianneLeiteNascimento/cloud_com_inteligencia_artificial/blob/main/resumos/modulo_cinco/mineração_de_dados.md
+
+- Resumo 3:  https://github.com/MarianneLeiteNascimento/cloud_com_inteligencia_artificial/blob/main/resumos/modulo_cinco/explorando_ia_generativa.md
